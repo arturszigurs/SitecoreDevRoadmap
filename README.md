@@ -10,7 +10,7 @@ Sitecore nowadays is moving to a more modular architecture, having a lot of diff
 
 ## Usefull resources for learning or working with Sitecore
 - Sitecore on [StackExchange](https://sitecore.stackexchange.com/)
-- [Sitecore Developer portal](Sitecore Developer Portalhttps://developers.sitecore.com)
+- [Sitecore Developer portal](https://developers.sitecore.com)
 - Sitecore community [Slack](https://sitecorechat.slack.com)
 - DiscoverSitecore [Youtube Channel](https://www.youtube.com/c/DiscoverSitecore)
 - [Official Sitecore documentation](https://doc.sitecore.com/)
@@ -43,3 +43,10 @@ More detail below.
 - Sitecore Forms
 - EXM
 - JSS
+- Horizon
+
+## Additional Sitecore offerings
+- Order Cloud
+- Sitecore Commerce
+- Moosend
+- Content Hub
