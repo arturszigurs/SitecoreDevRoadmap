@@ -1,5 +1,5 @@
-# SitecoreDevRoadmap
-Sitecore developer roadmap 2022
+# Sitecore Developer Roadmap
+This is my own take on Sitecore developer roadmap in 2022
 
 Sitecore nowadays is moving to a more modular architecture.
 
