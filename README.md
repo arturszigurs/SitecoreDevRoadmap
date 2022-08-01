@@ -13,7 +13,7 @@ Sitecore nowadays is moving to a more modular architecture, having a lot of diff
 - [Sitecore Developer portal](https://developers.sitecore.com)
 - Sitecore community [Slack](https://sitecorechat.slack.com)
 - DiscoverSitecore [Youtube Channel](https://www.youtube.com/c/DiscoverSitecore)
-- [Official Sitecore documentation](https://doc.sitecore.com/)
+- [Official Sitecore documentation](https://doc.sitecore.com/xp/en/users/102/index.html)
 - Sitecore [learning portal](https://learning.sitecore.com/)
 
 ## Overview
